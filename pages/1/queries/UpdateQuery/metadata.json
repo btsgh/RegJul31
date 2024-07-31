@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66a9dfd51c79ac7ee4ace222_7f50c639-6f19-427a-9af0-282c322dcb00",
-  "id": "Sheet1_UpdateQuery",
+  "id": "1_UpdateQuery",
   "pluginId": "google-sheets-plugin",
   "pluginType": "SAAS",
   "unpublishedAction": {
@@ -120,7 +120,7 @@
     },
     "executeOnLoad": false,
     "name": "UpdateQuery",
-    "pageId": "Sheet1",
+    "pageId": "1",
     "userSetOnLoad": false
   }
 }
