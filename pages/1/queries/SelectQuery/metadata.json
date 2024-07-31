@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66a9dfd51c79ac7ee4ace222_562cb783-69aa-49df-8911-99d63923f8cb",
-  "id": "Sheet1_SelectQuery",
+  "id": "1_SelectQuery",
   "pluginId": "google-sheets-plugin",
   "pluginType": "SAAS",
   "unpublishedAction": {
@@ -157,7 +157,7 @@
     },
     "executeOnLoad": true,
     "name": "SelectQuery",
-    "pageId": "Sheet1",
+    "pageId": "1",
     "userSetOnLoad": true
   }
 }
