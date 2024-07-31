@@ -19,6 +19,22 @@
     {
       "id": "Oauth",
       "isDefault": false
+    },
+    {
+      "id": "All",
+      "isDefault": false
+    },
+    {
+      "id": "Rw",
+      "isDefault": false
+    },
+    {
+      "id": "r",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
